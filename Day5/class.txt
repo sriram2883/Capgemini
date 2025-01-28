@@ -1,0 +1,14 @@
+properties{
+    empid
+    name
+    address
+    designation
+    department
+    salary
+    qualification
+    experience
+    students_allocated
+    schedule
+    teaching()
+    mentoring()
+}

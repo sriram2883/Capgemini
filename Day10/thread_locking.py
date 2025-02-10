@@ -1,11 +1,13 @@
 import threading
 import time
 
+
 def task(lock):
     with lock:
         print("Acquired lock")
         time.sleep(2)
         print("Released lock")
+
 
 lock = threading.Lock()
 

@@ -1,0 +1,70 @@
+{
+    "fruits": [
+        {
+            "name": "apple",
+            "cost": 120
+        },
+        {
+            "name": "banana",
+            "cost": 50
+        },
+        {
+            "name": "orange",
+            "cost": 80
+        },
+        {
+            "name": "grape",
+            "cost": 200
+        },
+        {
+            "name": "strawberry",
+            "cost": 250
+        },
+        {
+            "name": "pineapple",
+            "cost": 150
+        },
+        {
+            "name": "mango",
+            "cost": 100
+        },
+        {
+            "name": "blueberry",
+            "cost": 300
+        }
+    ],
+    "plants": [
+        {
+            "name": "rose",
+            "cost": 300
+        },
+        {
+            "name": "tulip",
+            "cost": 150
+        },
+        {
+            "name": "sunflower",
+            "cost": 100
+        },
+        {
+            "name": "daisy",
+            "cost": 200
+        },
+        {
+            "name": "orchid",
+            "cost": 500
+        },
+        {
+            "name": "lily",
+            "cost": 250
+        },
+        {
+            "name": "daffodil",
+            "cost": 180
+        },
+        {
+            "name": "lavender",
+            "cost": 220
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "8ef4cccf-d630-48ff-8234-f85bd7f030d4",
+  "version": "2.0",
+  "name": "Testing1",
+  "url": "https://www.programiz.com",
+  "tests": [{
+    "id": "1b79e17e-b566-4761-8fcf-3434f98a8e22",
+    "name": "Test1",
+    "commands": [{
+      "id": "364813db-d603-4a81-8c31-4ef58858c2b5",
+      "comment": "",
+      "command": "open",
+      "target": "/python-programming/online-compiler/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "88f4bc02-48fc-4b85-8ecb-5a481bfe8cb5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1054x800",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6a2430e4-8566-4adc-a8eb-ad32c94ec6ab",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=.sidebar-wrapper",
+      "targets": [
+        ["css=.sidebar-wrapper", "css:finder"],
+        ["xpath=//div[@id='root']/div[6]/div[3]", "xpath:idRelative"],
+        ["xpath=//div[6]/div[3]", "xpath:position"]
+      ],
+      "value": "20,49.19999694824219"
+    }, {
+      "id": "b2067348-f5be-43c0-85e9-39421c903018",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=.sidebar-wrapper",
+      "targets": [
+        ["css=.sidebar-wrapper", "css:finder"],
+        ["xpath=//div[@id='root']/div[6]/div[3]", "xpath:idRelative"],
+        ["xpath=//div[6]/div[3]", "xpath:position"]
+      ],
+      "value": "20,49.19999694824219"
+    }, {
+      "id": "cbb2a4c3-5bac-4d34-92d1-1bf6fd106e35",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=.sidebar-wrapper",
+      "targets": [
+        ["css=.sidebar-wrapper", "css:finder"],
+        ["xpath=//div[@id='root']/div[6]/div[3]", "xpath:idRelative"],
+        ["xpath=//div[6]/div[3]", "xpath:position"]
+      ],
+      "value": "20,49.19999694824219"
+    }, {
+      "id": "7e75f257-a5da-4886-94eb-140ae0645eb1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wrapper",
+      "targets": [
+        ["css=.wrapper", "css:finder"],
+        ["xpath=//div[@id='root']/div[6]", "xpath:idRelative"],
+        ["xpath=//div[6]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a2f14d50-89ac-4c31-a938-2f4588ace0ea",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e3ffe71-4239-4632-a6e3-a2e9f00a5153",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "04c84bab-9bc4-40e9-9ab0-f3907c577b0e",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e46b77eb-1f28-4dc4-bd79-f6dd445c879d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d83de208-3821-4dd3-af77-cbabbf52eda3",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "544eef1a-773c-417b-be2f-6c124ae0a571",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a375ba43-b483-46ee-b862-cb7d6777b139",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b4900108-d288-4a9e-999d-3890a2569815",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "243e2df2-7e40-489c-a28f-1285c097e632",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fd2fba45-1fa1-4fca-a2b8-dcbe72ec6e35",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d4086bff-6d50-431c-b23b-fbaa523ff6b2",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6af054db-6be2-46e4-b9e3-cec15482b998",
+      "comment": "",
+      "command": "type",
+      "target": "css=#editor > .ace_text-input",
+      "targets": [
+        ["css=#editor > .ace_text-input", "css:finder"],
+        ["xpath=//div[@id='editor']/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "print(a+b)\\n\\n"
+    }, {
+      "id": "765c8517-5305-4508-baeb-090f38edeeef",
+      "comment": "",
+      "command": "click",
+      "target": "css=.run-text",
+      "targets": [
+        ["css=.run-text", "css:finder"],
+        ["xpath=//div[@id='root']/div[6]/div[4]/div/div[2]/button[5]/span", "xpath:idRelative"],
+        ["xpath=//button[5]/span", "xpath:position"],
+        ["xpath=//span[contains(.,' Run ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ae3ef393-e0a2-4035-9e54-8de7833858aa",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.run-text",
+      "targets": [
+        ["css=.run-text", "css:finder"],
+        ["xpath=//div[@id='root']/div[6]/div[4]/div/div[2]/button[5]/span", "xpath:idRelative"],
+        ["xpath=//button[5]/span", "xpath:position"],
+        ["xpath=//span[contains(.,' Run ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec026017-95b8-4c49-b3a3-dc45f3599db1",
+      "comment": "",
+      "command": "click",
+      "target": "css=#terminal .ace_content",
+      "targets": [
+        ["css=#terminal .ace_content", "css:finder"],
+        ["xpath=//div[@id='terminal']/div[2]/div", "xpath:idRelative"],
+        ["xpath=//div[6]/div[5]/div[2]/div[2]/div", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "63856400-5ae9-4641-b741-8f4f38e8ecb4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1b79e17e-b566-4761-8fcf-3434f98a8e22"]
+  }],
+  "urls": ["https://www.programiz.com/"],
+  "plugins": []
+}

@@ -1,0 +1,5 @@
+Scaffold-DbContext
+"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TestDb;Integrated Security=True;Pooling=False;Encrypt=True;Trust Server Certificate=True"
+Microsoft.EntityFrameworkCore.SqlServer
+~OutoutDir Models
+~Context EmployeeDbContext

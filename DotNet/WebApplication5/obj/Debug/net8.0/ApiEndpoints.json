@@ -1,0 +1,72 @@
+[
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogDependency",
+    "RelativePath": "api/TelemetryDemo/log-dependency",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogEvent",
+    "RelativePath": "api/TelemetryDemo/log-event",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogException",
+    "RelativePath": "api/TelemetryDemo/log-exception",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogRequest",
+    "RelativePath": "api/TelemetryDemo/log-request",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogInfo",
+    "RelativePath": "api/TelemetryDemo/trace-info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogVerbose",
+    "RelativePath": "api/TelemetryDemo/trace-verbose",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TelemetryDemoController",
+    "Method": "LogWarning",
+    "RelativePath": "api/TelemetryDemo/trace-warning",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
